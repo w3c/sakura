@@ -1,3 +1,5 @@
+# PWA.next
+
 In our discussion with application developers the need to provide more visibility on the current and future positioning of the Web as a platform for applications was highlighted as an important factor in terms of strategic decisions and investments.
 
 Progressive Web Apps have brought together a set of unique features building up on the strengths of the Web as a platform (instantaneousness, shareability, discoverability, privacy & security guarantees) and filling its historical gaps with modern software platforms with stronger support for offline experiences, background services, and OS integration.
