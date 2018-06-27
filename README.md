@@ -1,4 +1,4 @@
-# PWA.next
+# PWAs and Beyond: The Next Generation of Web Apps
 
 In our discussion with application developers the need to provide more visibility on the current and future positioning of the Web as a platform for applications was highlighted as an important factor in terms of strategic decisions and investments.
 
